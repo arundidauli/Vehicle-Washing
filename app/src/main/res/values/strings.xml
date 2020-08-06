@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vahicle Washing</string>
+    <string name="txt_continue">Continue</string>
+    <string name="select_one_course">Select One Course</string>
+</resources>
